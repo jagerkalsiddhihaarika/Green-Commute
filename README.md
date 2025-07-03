@@ -1,4 +1,4 @@
-![Green Commute Banner](assets/green_commute_banner.png)
+![Green Commute Banner](green_commute_banner.png)
 # 🌱 Green Commute
 
 *Rootin’ for a greener route — Green Commute!*
